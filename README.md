@@ -3,6 +3,7 @@
 TODO :
 
 pip3 install fastai
+
 pip3 install ipywidgets
 
 Then you can launch both scripts and compare the accuracy of each ones.
